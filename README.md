@@ -21,7 +21,7 @@ Vous pouvez aller sur l'URL : [http://localhost:3001](http://localhost:3001)
 
 ## Laisser le port par défaut
 
-Pour ceux qui souhaitent laisser le port par défaut, il vous suffit de modifier le fichier `package.json` et de changer le script `dev` avec ceci :
+Pour ceux qui souhaitent laisser le port par défaut (3000), il vous suffit de modifier le fichier `package.json` et de changer le script `dev` avec ceci :
 
 ```sh
 "dev": "next dev",
